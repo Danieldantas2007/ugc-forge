@@ -1,0 +1,3 @@
+id,type,model,prompt,size
+cat-on-roof,image,bytedance/seedream-v4.7/text-to-image,"A cat sitting on a tin roof at sunset",2048*2048
+empty-studio,image,bytedance/seedream-v4.7/text-to-image,"An empty photo studio with a single softbox",2048*2048

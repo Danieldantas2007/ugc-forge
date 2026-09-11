@@ -1,0 +1,4 @@
+id,type,model,prompt,image,duration,aspect_ratio,size
+scene-01-anchor,image,bytedance/seedream-v4.7/text-to-image,"A woman in a linen shirt sitting by a kitchen window, morning light, natural skin texture, candid lifestyle photo",,,,2048*2048
+scene-01-video,video,bytedance/seedance-v2.0/image-to-video,"She turns toward the camera and starts talking, small natural gestures, handheld feel",https://example.com/anchor.png,8,16:9,
+scene-02-video,video,bytedance/seedance-v2.0/image-to-video,"She walks to the counter and pours coffee, camera follows one meter behind her",https://example.com/anchor.png,8,16:9,
